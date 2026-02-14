@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:responsvie_dashboard/widgets/adaptive_layout.dart';
+import 'package:responsvie_dashboard/views/widgets/adaptive_layout.dart';
 
-import '../widgets/dashboard_desktop_layout.dart';
+import 'widgets/dashboard_desktop_layout.dart';
 
 class DashboardView extends StatelessWidget {
   const DashboardView({super.key});
